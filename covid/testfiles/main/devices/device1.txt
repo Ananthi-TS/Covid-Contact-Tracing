@@ -1,0 +1,2 @@
+deviceName=Ananthi
+networkAddress=192.168.175.72

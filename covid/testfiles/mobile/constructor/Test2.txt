@@ -1,0 +1,2 @@
+deviceName=
+networkAddress=132.45.15.2

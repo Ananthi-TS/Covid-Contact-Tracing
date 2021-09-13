@@ -1,0 +1,2 @@
+deviceName=Dylan
+networkAddress=172.45.62.8
